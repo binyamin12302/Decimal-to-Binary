@@ -41,12 +41,14 @@ git clone https://github.com/binyamin12302/Decimal-to-Binary.git
 (Optional: If using Live Server in VS Code, just right-click index.html and select "Open with Live Server")
 
 ##  📚 What I Learned 
+
 🔹 How recursion works in JavaScript
 🔹 How to visualize the Call Stack with animations
 🔹 Working with setTimeout to control animation flow
 🔹 Handling user input and validation in JavaScript
 
 ## 🛠️ Future Improvements
+
 📌 Support stack animation for any number, not just 5.
 📌 Add a "Step-by-Step" mode to slow down the recursion process.
 
