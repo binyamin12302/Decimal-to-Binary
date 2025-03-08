@@ -9,10 +9,7 @@ A **recursive** decimal-to-binary converter that visually demonstrates how recur
 ---
 
 ## 📸 **Demo**
-[🔗 Live Demo (GitHub Pages)](https://dapper-brioche-d4a319.netlify.app/) 
-
-<img src="screenshot.gif" alt="Decimal to Binary Animation" width="600">  
-https://pikwy.com/web/67ccae3404cc7f79ff23d57d
+[🔗 Live Demo (Netlify)](https://dapper-brioche-d4a319.netlify.app/) 
 
 ---
 
@@ -28,7 +25,7 @@ https://pikwy.com/web/67ccae3404cc7f79ff23d57d
 ✅ **HTML5** – Page structure  
 ✅ **CSS3** – Styling & responsiveness  
 ✅ **JavaScript (ES6+)** – Recursion, DOM manipulation, Call Stack visualization  
-✅ **GitHub Pages** *(optional: for deployment)*  
+✅ **Netlify** *(for live deployment)*  
 
 ---
 
@@ -53,12 +50,8 @@ git clone https://github.com/binyamin12302/Decimal-to-Binary.git
 🤝 Contributing
 Feel free to fork this repository and submit a pull request if you have improvements! 🚀
 
-📜 License
-This project is open-source under the MIT License.
+📚 Credit
+This project was built as part of the FreeCodeCamp curriculum.
 
 🎯 If you liked this project, don't forget to give it a ⭐ on GitHub!
 🔗 Visit the repository
-
-yaml
-Copy
-Edit
