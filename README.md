@@ -31,32 +31,36 @@ A **recursive** decimal-to-binary converter that visually demonstrates how recur
 
 ---
 
-## 🚀 **How to Run Locally**
-1️⃣ Clone this repository:
+## 🚀 How to Run Locally  
+
+1️⃣ Clone this repository:  
 ```sh
 git clone https://github.com/binyamin12302/Decimal-to-Binary.git
-```
 2️⃣ Open the index.html file in your browser.
 
 (Optional: If using Live Server in VS Code, just right-click index.html and select "Open with Live Server")
 
-##  📚 What I Learned 
-
+📚 What I Learned
 🔹 How recursion works in JavaScript
 🔹 How to visualize the Call Stack with animations
 🔹 Working with setTimeout to control animation flow
 🔹 Handling user input and validation in JavaScript
 
-## 🛠️ Future Improvements
-
+🛠️ Future Improvements
 📌 Support stack animation for any number, not just 5.
 📌 Add a "Step-by-Step" mode to slow down the recursion process.
 
-##  🤝 Contributing
+🤝 Contributing
 Feel free to fork this repository and submit a pull request if you have improvements! 🚀
 
-##  📚 Credit
+📚 Credit
 This project was built as part of the FreeCodeCamp curriculum.
 
 🎯 If you liked this project, don't forget to give it a ⭐ on GitHub!
 🔗 Visit the repository
+
+yaml
+Copy
+Edit
+
+---
