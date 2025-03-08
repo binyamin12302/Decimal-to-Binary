@@ -10,7 +10,8 @@ A **recursive** decimal-to-binary converter that visually demonstrates how recur
 
 ## 📸 **Demo**
 [🔗 Live Demo (Netlify)](https://dapper-brioche-d4a319.netlify.app/) 
-![Binary Animation](screenshot.png)
+![Binary Animation](screencapture-dapper-brioche-d4a319-netlify-app-2025-03-08-23_25_03)
+
 
 ---
 
