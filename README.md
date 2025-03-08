@@ -36,8 +36,7 @@ A **recursive** decimal-to-binary converter that visually demonstrates how recur
 1️⃣ Clone this repository:  
 ```sh
 git clone https://github.com/binyamin12302/Decimal-to-Binary.git
-2️⃣ Open the index.html file in your browser.
-
+```
 (Optional: If using Live Server in VS Code, just right-click index.html and select "Open with Live Server")
 
 📚 What I Learned
@@ -58,9 +57,5 @@ This project was built as part of the FreeCodeCamp curriculum.
 
 🎯 If you liked this project, don't forget to give it a ⭐ on GitHub!
 🔗 Visit the repository
-
-yaml
-Copy
-Edit
 
 ---
