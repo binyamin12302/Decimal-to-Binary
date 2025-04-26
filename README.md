@@ -52,13 +52,7 @@ git clone https://github.com/binyamin12302/Decimal-to-Binary.git
 
 📌 **Support stack animation for any number, not just `5`.**  
 📌 **Add a "Step-by-Step" mode to slow down the recursion process.**  
-
----
-
-## 🤝 Contributing  
-
-Feel free to **fork** this repository and submit a pull request if you have improvements! 🚀  
-
+ 
 ---
 
 ## 📚 Credit  
